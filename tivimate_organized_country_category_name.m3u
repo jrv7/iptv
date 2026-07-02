@@ -1,0 +1,49 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/br.xml,https://iptv-org.github.io/epg/guides/es.xml,https://iptv-org.github.io/epg/guides/us.xml"
+# Generated for TiviMate: Country | Category | Name
+# Source project: IPTV-org public playlist/database. Only selected free/public streams included.
+
+#EXTINF:-1 tvg-id="DemaisTV.br@SD" tvg-country="BR" group-title="Brazil | Entertainment",Demais TV (720p)
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 tvg-id="ForaTedioTV.br@SD" tvg-country="BR" group-title="Brazil | Entertainment",Fora Tedio TV (720p)
+#EXTVLCOPT:http-referrer=https://www.foratedio.com
+https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
+#EXTINF:-1 tvg-id="Geekdot.br@SD" tvg-country="BR" group-title="Brazil | Entertainment",Geekdot (720p)
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Loading.br@SD" tvg-country="BR" group-title="Brazil | Entertainment",Loading (720p)
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayTV.br@SD" tvg-country="BR" group-title="Brazil | Entertainment",Play TV (720p)
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+#EXTINF:-1 tvg-id="Record.br@SD" tvg-country="BR" group-title="Brazil | Entertainment",RecordTV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-country="BR" group-title="Brazil | Entertainment",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-id="CINDIETV.br@HD" tvg-country="BR" group-title="Brazil | Movies",CINDIE TV (1080p)
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTV.br@SD" tvg-country="BR" group-title="Brazil | Movies",Classique TV (360p)
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosCine.pt@SD" tvg-country="BR" group-title="Brazil | Movies",Kuriakos Cine (1080p)
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanaldoInter.br@SD" tvg-country="BR" group-title="Brazil | Sports",Canal do Inter (720p)
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-country="BR" group-title="Brazil | Sports",CazeTV (1080i)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-id="geFast.br@SD" tvg-country="BR" group-title="Brazil | Sports",ge Fast (1080p)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
+
+#EXTINF:-1 tvg-id="24Horas.es@SD" tvg-country="ES" group-title="Spain | News",Canal 24 Horas (720p)
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="24HorasCanarias.es@SD" tvg-country="ES" group-title="Spain | News",Canal 24 Horas Canarias (720p)
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:-1 tvg-id="24HorasCatalunya.es@SD" tvg-country="ES" group-title="Spain | News",Canal 24 Horas Catalunya (720p)
+https://ztnr.rtve.es/ztnr/4952053.m3u8
+#EXTINF:-1 tvg-id="CanalSurNoticias.es@SD" tvg-country="ES" group-title="Spain | News",Canal Sur Noticias
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AghapyKids.us@SD" tvg-country="US" group-title="USA | Kids",Aghapy Kids (1080p)
+https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
+#EXTINF:-1 tvg-id="PBSKids.us@SD" tvg-country="US" group-title="USA | Kids",PBS Kids (720p)
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 tvg-id="PBSKidsHawaii.us@SD" tvg-country="US" group-title="USA | Kids",PBS Kids Hawaii (720p)
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
